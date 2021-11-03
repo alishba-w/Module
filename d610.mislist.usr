@@ -1,0 +1,5 @@
+13D610    MISLIST 101001List of MIS Events
+13D610    MISLIST 105001This structure contains a list of MIS items used by BFMs for
+13D610    MISLIST 110001collecting MIS events
+13D610    MISLIST 125001list
+13D610    MISLIST 130001{D610.MISITEM}      99

@@ -1,0 +1,6 @@
+13D610    MISITEM 101001MIS Item Structure
+13D610    MISITEM 105001This structure holds the information necessary for raising a MIS
+13D610    MISITEM 110001event
+13D610    MISITEM 125001entry
+13D610    MISITEM 130001{D710.EVENTID}      1
+13D610    MISITEM 130002{D710.INCR}         1

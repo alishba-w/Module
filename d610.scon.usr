@@ -1,0 +1,7 @@
+13D610    SCON    101001SCON WITH PREFIX & SUFFIX
+13D610    SCON    105001This structure holds the SCON database attribute, along
+13D610    SCON    110001with its derivable prefix and suffix.
+13D610    SCON    125001scon_prefx_suffx
+13D610    SCON    130001{D710.CONPREFX}     1
+13D610    SCON    130002{RATTD.SCON}        1
+13D610    SCON    130003{D710.M19SUFFX}     1

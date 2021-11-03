@@ -1,0 +1,7 @@
+13D610    ECON    101001ECON WITH PREFIX & SUFFIX
+13D610    ECON    105001This structure holds the ECON database attribute, along
+13D610    ECON    110001with its derivable prefix and suffix.
+13D610    ECON    125001econ_prefx_suffx
+13D610    ECON    130001{D710.CONPREFX}     1
+13D610    ECON    130002{RATTD.ECON}        1
+13D610    ECON    130003{D710.M19SUFFX}     1
