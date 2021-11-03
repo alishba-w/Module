@@ -1,0 +1,8 @@
+39T235BAM BA06013 101001CY Test for Extract 3
+39T235BAM BA06013 105001The Compliance and Yield Test for Extract 3 BAM. This BAM is used
+39T235BAM BA06013 106001to identify employees whose earnings show a sudden drop.
+39T235BAM BA06013 110001CY_TestForExtract3
+39T235BAM BA06013 115001{D710.BAMRTN}
+39T235BAM BA06013 130001 {RATTD.NINO}        {D610.IA06013A}                         
+39T235BAM BA06013 130002 {RATTD.TAXYEAR}     {D610.IA06013B}                         
+39T235BAM BA06013 130003                     {D610.MISLIST}
